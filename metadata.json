@@ -1,0 +1,6 @@
+{
+  "name": "Red Horizon: Mars Colony Architect",
+  "description": "A 3D Mars colony-building and terraforming strategy game where you manage oxygen, water extraction, energy grids, multi-tier dust storms, and orbital Earth trade.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
